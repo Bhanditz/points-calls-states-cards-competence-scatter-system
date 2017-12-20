@@ -17,3 +17,7 @@ Action speed and validity of action.
 Interrupt and Instant can be done any time - Interrupts go backwards in time, Instants resolve in order.
 Endeavour. Goes at normal speed, can only be done in your own turn, can't be done in response to an Instant or Interrupt.
 - The only difference between the different venues of play is the level of ornamentation.
+
+Tokens.
+
+Typed things.
