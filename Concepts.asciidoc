@@ -1,4 +1,5 @@
-Almost everything should be represented in shared mechanics - these are pointbuy, and come in trees. Each thing is fairly fine grained, and has both a crunch and a fluff aspect. In general, no dicerolling here, as these mechanics have to be portable. Instead, we use the Call, State of Being, and Card/Tag/Band system to resolve these things.
+Almost everything should be represented in shared mechanics - these are pointbuy, and come in trees. Each thing is fairly fine grained, and has both a crunch and a fluff aspect. In general, no dicerolling here, as these mechanics have to be portable. Instead, we use the Call, State of Being, Card/Tag/Band, and other kind of Card system to resolve these things.
+There are five kinds of points: XP, GP, $P, BP, ❄P.
 
 The only other thing is representing the inverse of physrepping, for which we use the Competence system. This is deliberately kept small, with no pointbuy aspects, as it is not portable; there is a different manifestation of the Competence system for each kind of venue.
 - Larp
@@ -9,3 +10,10 @@ The only other thing is representing the inverse of physrepping, for which we us
     - Use the listed dice to determine Scatter.
 - RPG
   - Several possibilities, but all are based on assigning the playgroup a 'level', and with pass below the level, fail above the level, and coin flips at the level.
+
+
+The stack/turn system for resolving actions.
+Action speed and validity of action.
+Interrupt and Instant can be done any time - Interrupts go backwards in time, Instants resolve in order.
+Endeavour. Goes at normal speed, can only be done in your own turn, can't be done in response to an Instant or Interrupt.
+- The only difference between the different venues of play is the level of ornamentation.
