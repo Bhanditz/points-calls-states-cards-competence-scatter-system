@@ -1,0 +1,11 @@
+Almost everything should be represented in shared mechanics - these are pointbuy, and come in trees. Each thing is fairly fine grained, and has both a crunch and a fluff aspect. In general, no dicerolling here, as these mechanics have to be portable. Instead, we use the Call, State of Being, and Card/Tag/Band system to resolve these things.
+
+The only other thing is representing the inverse of physrepping, for which we use the Competence system. This is deliberately kept small, with no pointbuy aspects, as it is not portable; there is a different manifestation of the Competence system for each kind of venue.
+- Larp
+  - Your Competence at a thing is based on whether you actually pull it off - eg do you hit the person with the sword so that you can use your stabbing based ability.
+- Wargaming
+  - The Scatter system
+    - Different things have a different degree of Scatter, with modifiers based on green/standard/veteran/elite status.
+    - Use the listed dice to determine Scatter.
+- RPG
+  - Several possibilities, but all are based on assigning the playgroup a 'level', and with pass below the level, fail above the level, and coin flips at the level.
