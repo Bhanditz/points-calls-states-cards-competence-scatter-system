@@ -6,10 +6,12 @@ The only other thing is representing the inverse of physrepping, for which we us
   - Your Competence at a thing is based on whether you actually pull it off - eg do you hit the person with the sword so that you can use your stabbing based ability.
 - Wargaming
   - The Scatter system
-    - Different things have a different degree of Scatter, with modifiers based on green/standard/veteran/elite status.
+    - Different things have a different degree of Scatter, with modifiers based on green/standard/veteran/elite status
+    - The complicated option uses a scoring system based off tags, cost, and level for attributes to precalculate static status modifiers for specific scatter rolls
     - Use the listed dice to determine Scatter.
 - RPG
   - Several possibilities, but all are based on assigning the playgroup a 'level', and with pass below the level, fail above the level, and coin flips at the level.
+  - The complicated option uses a scoring system based off tags, cost, and level for attributes to calculate competence levels for tasks, with a base competence level in general.
 
 
 The stack/turn system for resolving actions.
